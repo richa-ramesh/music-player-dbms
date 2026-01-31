@@ -29,6 +29,9 @@ This project implements a centralized music album management system that stores 
 9. **listens_to** - User-song relationships
 10. **song_features** - Links songs to artists and albums
 
+## ER Diagram
+![ER Diagram](ER_Diagram.jpg)
+
 ### Normalization
 All tables are in **Boyce-Codd Normal Form (BCNF)**.
 

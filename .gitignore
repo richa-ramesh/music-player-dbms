@@ -1,0 +1,43 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+
+# MySQL specific
+*.sql~
+*.sql.bak
+
+# Backup files
+*~
+*.bak
+*.backup
+*.old
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Log files
+*.log
+
+# Personal configuration
+config.local.sql
+credentials.sql
+
+# Large data dumps (if you have them)
+dump/
+exports/
